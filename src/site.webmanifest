@@ -1,0 +1,16 @@
+{
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "name": "Ubuntu Conf",
+    "short_name": "UC",
+    // "display": "fullscreen",
+    "display": "standalone",
+    "theme_color": "#f0f"
+    // "background_color": "f00"
+}
